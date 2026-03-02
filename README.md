@@ -8,7 +8,7 @@ By using Python and NumPy, we process raw user data to identify trends in stream
 ## Team Members
 * **Habib Lahlou**
 * **Ismail Salhi**
-* **Cao Chuanyang**
+* **Chuanyang CAO**
 * **Tsu-yi Sung**
 
 ## The Dataset
